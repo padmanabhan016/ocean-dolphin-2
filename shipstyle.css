@@ -1,0 +1,38 @@
+body{
+  font-family: 'Cookie', cursive;text-align: center;margin: 0;
+}
+.head1{
+  font-size: 300%
+}
+.para{
+  font-size: 280%
+}
+.parent{
+	position: relative;
+}
+.para1{
+	position:absolute;display:block;color:white;margin:8% 10%;width:80%;font-size: 450%;
+font-family: sans-serif;
+
+}
+.para2{
+  position:absolute;display:block;color:white;margin:1% 5%;
+font-family: sans-serif;
+}
+.button{
+  background-color:black;color:white;text-align: center;font-size: 100%;border-color:white;border-radius:10cm;border-width: 3px;
+}
+.para3{
+  position:absolute;display:block;color:white;margin:1% 15%;
+font-family: sans-serif;
+}
+.button1{
+  background-color:black;color:white;text-align: center;font-size:100%;border-color: white white;border-radius:10cm;border-width: 3px;
+}
+.para4{
+  position:absolute;display:block;color:white;margin:1% 30%;
+font-family: sans-serif;
+}
+.button2{
+  background-color:black;color:white;text-align: center;font-size: 100%;border-color: white white;border-radius:10cm;border-width: 3px;
+}
